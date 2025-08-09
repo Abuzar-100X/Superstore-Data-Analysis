@@ -1,9 +1,9 @@
 # Analyzes Superstore data to uncover profit/loss trends and recommend strategies for better profitability.
 
 ## Data used 
-[Superstore Sales Dataset (CSV)](https://github.com/Abuzar-100X/Superstore-Data-Analysis/blob/main/SuperStore_Sales_Dataset.csv)
+[Superstore Sales Dataset (CSV)](https://github.com/Abuzar-100X/Superstore-Data-Analysis/blob/main/SuperStore_Sales_Dataset.csv).
 
-##Key Insights
+##Key Insights,
 Regions: Central region has the highest losses, West region is the most profitable.
 
 States: California & New York generate 50%+ of profits; Texas leads in losses.
