@@ -38,7 +38,8 @@ Sub-Categories: Copiers, Accessories, and Paper have 0% loss; Binders & Machines
 Payment Modes: COD yields both highest profits and losses.
 
 ## Dashboard.
-[Superstore dashboard](https://github.com/Abuzar-100X/Superstore-Data-Analysis/blob/main/Superstore%20profit%20and%20loses.png)
+![Superstore Dashboard](https://github.com/Abuzar-100X/Superstore-Data-Analysis/blob/main/Superstore%20Dashboard.png?raw=true)
+
 Process: Imported the Superstore dataset into a BI dashboard, analyzed year-by-year trends across regions, categories, and segments, visualized key metrics, and derived actionable recommendations from the insights.
 
 ## Recommendations.
