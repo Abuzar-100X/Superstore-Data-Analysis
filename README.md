@@ -5,6 +5,7 @@
 
 
 
+
 ## Key Insights. 
 Regions: Central region has the highest losses, West region is the most profitable.
 
